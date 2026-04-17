@@ -67,15 +67,10 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/roychandu/roychandu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roychandu&show_icons=true&theme=radical&hide_border=true" alt="Chandan's Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roychandu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="41%"/>
 </div>
 
 ---
