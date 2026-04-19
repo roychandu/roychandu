@@ -16,17 +16,17 @@
 
 ---
 
-### 📖 About Me
+### About Me
 I am a passionate **Flutter and FlutterFlow Developer** specializing in building high-performance, scalable, and user-centric mobile and web applications. With a focus on **clean architecture** and **maintainable code**, I deliver secure and robust digital solutions that solve real-world problems.
 
-- 🛠️ Expertise in **Cross-Platform** development (Android, iOS, Web).
-- 🏗️ Depth in **Full-Stack** solutions with Firebase & RESTful APIs.
-- 📍 Specialized in **Location-based services** and **Google Maps API** integrations.
+- Expertise in **Cross-Platform** development (Android, iOS, Web).
+- Depth in **Full-Stack** solutions with Firebase & RESTful APIs.
+- Specialized in **Location-based services** and **Google Maps API** integrations.
 - 🍽️ Experienced in building complex **ERP & Management Systems** (Restaurants, Travel, etc.).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -45,7 +45,7 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 📍 Advanced Integrations & Portfolio Highlights
+### Advanced Integrations & Portfolio Highlights
 
 <table align="center">
   <tr>
@@ -67,7 +67,7 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 📊 GitHub Contributions
+### GitHub Contributions
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/roychandu/roychandu/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
@@ -75,11 +75,12 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 🚀 Hero Projects
+### Hero Projects
 
 ---
 
-#### 🎒 [Backpackr](https://github.com/roychandu/backpackr)
+
+#### [Backpackr](https://github.com/roychandu/backpackr)
 > **"Connect. Explore. Wander together."**
 > A revolutionary social media ecosystem designed for solo travelers to share journey blogs and build genuine connections through real-time discovery.
 
@@ -91,9 +92,11 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-#### 📋 [TablePilot](https://github.com/roychandu/TablePilot)
-> **"Frictionless Hospitality: From Floor to Kitchen."**
+
+#### [TablePilot](https://github.com/roychandu/TablePilot)
+>**"Frictionless Hospitality: From Floor to Kitchen."**
 > A comprehensive, full-stack restaurant management platform that unifies reservations, live order tracking, and automated billing into a single mobile interface.
+
 
 - **Live Reservation Grid**: Mathematical mapping of floor space with real-time occupancy tracking.
 - **Smart Billing Engine**: Automated processing of service charges, tax, and multi-mode discounts.
@@ -103,8 +106,9 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-#### 📅 Content Planner Plus
-> **"The Smart Productivity Ecosystem for Modern Creators."**
+
+#### Content Planner Plus
+>**"The Smart Productivity Ecosystem for Modern Creators."**
 > An all-in-one planning tool that bridges the gap between brainstorming ideas and professional content execution.
 
 - **Intelligent Planner**: Visual calendar Integration for scheduling and tracking content lifecycles.
@@ -115,7 +119,7 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 🎯 My Focus
+### My Focus
 - **Scalable Architectures** - Building for the future.
 - **Clean Code** - Maintainability and security first.
 - **Micro-Animations** - Creating delightful user experiences.
@@ -123,7 +127,7 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 <p align="">
   <a href="mailto:cr717753@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
