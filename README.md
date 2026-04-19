@@ -75,17 +75,43 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ---
 
-### 📱 Projects
+### 🚀 Hero Projects
 
-#### 🍽️ Restaurant Management System
-- Table booking system  
-- Inventory management  
-- Staff management  
+---
 
-#### 🌍 Travel & Location App
-- Google Maps integration  
-- Real-time location sharing  
-- Expense splitting with friends  
+#### 🎒 [Backpackr](https://github.com/roychandu/backpackr)
+> **"Connect. Explore. Wander together."**
+> A revolutionary social media ecosystem designed for solo travelers to share journey blogs and build genuine connections through real-time discovery.
+
+- **Nearby Discovery**: Intelligent engine finding fellow travelers within a **200km radius**.
+- **The "Wave" Mechanic**: A proprietary double-opt-in icebreaker system for frictionless networking.
+- **Traveling Blogs**: High-fidelity multimedia storytelling with image carousels and distance tracking.
+- **Meetup Orchestrator**: Full-lifecycle event management for public and private community gatherings.
+- **Tech Stack**: `Flutter`, `Dart`, `Firebase Realtime Database`, `Geolocator`, `Google/Apple Auth`.
+
+---
+
+#### 📋 [TablePilot](https://github.com/roychandu/TablePilot)
+> **"Frictionless Hospitality: From Floor to Kitchen."**
+> A comprehensive, full-stack restaurant management platform that unifies reservations, live order tracking, and automated billing into a single mobile interface.
+
+- **Live Reservation Grid**: Mathematical mapping of floor space with real-time occupancy tracking.
+- **Smart Billing Engine**: Automated processing of service charges, tax, and multi-mode discounts.
+- **Dynamic Menu Engine**: Categorized item management with resolution-aware image variants.
+- **Staff Control Center**: Role-based access control (RBAC) specifically built for Admin vs. Staff workflows.
+- **Tech Stack**: `Flutter`, `Riverpod`, `Firebase`, `In-App Purchases`, `GetX`.
+
+---
+
+#### 📅 Content Planner Plus
+> **"The Smart Productivity Ecosystem for Modern Creators."**
+> An all-in-one planning tool that bridges the gap between brainstorming ideas and professional content execution.
+
+- **Intelligent Planner**: Visual calendar Integration for scheduling and tracking content lifecycles.
+- **AI Idea Capture**: Direct speech-to-text integration for capturing inspiration on the fly.
+- **Performance Analytics**: High-fidelity charts to track growth and engagement trends.
+- **PDF Reporting**: Automated generation of content schedules and performance summaries.
+- **Tech Stack**: `Flutter`, `Charts`, `PDF Generator`, `Speech-to-Text`, `Firebase`.
 
 ---
 
