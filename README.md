@@ -77,7 +77,6 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 
 ### Hero Projects
 
----
 
 
 #### [Backpackr](https://github.com/roychandu/backpackr)
@@ -107,7 +106,7 @@ I am a passionate **Flutter and FlutterFlow Developer** specializing in building
 ---
 
 
-#### Content Planner Plus
+#### [Content Planner Plus](https://github.com/roychandu/Content-Planner-Plus)
 >**"The Smart Productivity Ecosystem for Modern Creators."**
 > An all-in-one planning tool that bridges the gap between brainstorming ideas and professional content execution.
 
